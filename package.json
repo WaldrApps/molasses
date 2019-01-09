@@ -1,0 +1,24 @@
+{
+  "name": "molasses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WaldrApps/molasses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WaldrApps/molasses/issues"
+  },
+  "homepage": "https://github.com/WaldrApps/molasses#readme"
+}
